@@ -1,4 +1,4 @@
-<b>Ha alltid dine bitcoins med deg, i lommen din!</b> Du betaler ved å raskt skanne en QR-kode. Som en kjøpmann, får du betaling pålitelig og kjapt. Namecoin Wallet er den første Namecoin mobilappen, og kanskje også den sikreste!
+<b>Ha alltid dine bitcoins med deg, i lommen din!</b> Du betaler ved å raskt skanne en QR-kode. Som en kjøpmann, får du betaling pålitelig og kjapt. MobileCash Wallet er den første MobileCash mobilappen, og kanskje også den sikreste!
 
 
 <b>FUNKSJONER</b>
@@ -6,8 +6,8 @@
 • Ingen registrering, webtjeneste eller sky trengs! Denne lommeboken er desentralisert og peer-to-peer.
 • Visning av bitcoinbeløpet i NMC, mNMC og μNMC.
 • Konvertering til og fra nasjonale valutaer.
-• Sende og motta bitcoin via NFC, QR-koder eller Namecoin-URLer.
-• Adressebok for regelmessig brukte Namecoin-adresser.
+• Sende og motta bitcoin via NFC, QR-koder eller MobileCash-URLer.
+• Adressebok for regelmessig brukte MobileCash-adresser.
 • Når du er frakoblet, kan du fortsatt betale via Bluetooth.
 • Systemvarsling for mottatte mynter.
 • Sveiping av papirlommebøker (f.eks. de som brukes til kaldlagring).
@@ -16,7 +16,7 @@
 
 <b>BIDRA</b>
 
-Namecoin Wallet har <b>åpen kildekode</b> og er <b>fri programvare</b>. Lisens: GPLv3
+MobileCash Wallet har <b>åpen kildekode</b> og er <b>fri programvare</b>. Lisens: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Vår kildekode er tilgjengelig på GitHub:

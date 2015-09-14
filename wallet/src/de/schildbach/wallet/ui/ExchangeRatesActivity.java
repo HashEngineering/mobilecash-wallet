@@ -20,7 +20,7 @@ package de.schildbach.wallet.ui;
 import android.app.ActionBar;
 import android.os.Bundle;
 import android.view.MenuItem;
-import hashengineering.namecoin.wallet.R;
+import hashengineering.mobilecash.wallet.R;
 
 /**
  * @author Andreas Schildbach

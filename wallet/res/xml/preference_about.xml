@@ -37,11 +37,11 @@
 	</Preference>
 	<!--Preference
 		android:key="about_twitter"
-		android:summary="\@Namecoin_wallet"
+		android:summary="\@MobileCash_wallet"
 		android:title="Twitter" >
 		<intent
 			android:action="android.intent.action.VIEW"
-			android:data="https://twitter.com/#!/Namecoin_wallet" />
+			android:data="https://twitter.com/#!/MobileCash_wallet" />
 	</Preference-->
 	<Preference
 		android:key="about_credits_bitcoinj"
@@ -60,11 +60,11 @@
 	</Preference>
 	<!--Preference
 		android:key="about_credits_icon"
-		android:summary="https://Namecointalk.org/index.php?action=profile;u=2062"
+		android:summary="https://MobileCashtalk.org/index.php?action=profile;u=2062"
 		android:title="@string/about_credits_icon_title" >
 		<intent
 			android:action="android.intent.action.VIEW"
-			android:data="https://Namecointalk.org/index.php?action=profile;u=2062" />
+			android:data="https://MobileCashtalk.org/index.php?action=profile;u=2062" />
 	</Preference-->
 
 </PreferenceScreen>

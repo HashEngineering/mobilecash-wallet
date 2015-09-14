@@ -3,19 +3,19 @@ FILES
 Your wallet contains your private keys and various transaction related metadata. It is stored in app-private
 storage:
 
-	Mainnet: /data/data/hashengineering.namecoin.wallet/files/wallet-protobuf (MODE_PRIVATE)
+	Mainnet: /data/data/hashengineering.mobilecash.wallet/files/wallet-protobuf (MODE_PRIVATE)
 
 
-	Testnet: /data/data/hashengineering.namecoin.wallet_test/files/wallet-protobuf-testnet (MODE_WORLD_READABLE | MODE_WORLD_WRITEABLE)
+	Testnet: /data/data/hashengineering.mobilecash.wallet_test/files/wallet-protobuf-testnet (MODE_WORLD_READABLE | MODE_WORLD_WRITEABLE)
 
 The wallet file format is not compatible to wallet.dat (Satoshi client). Rather, it uses a custom protobuf format
 which should be compatible between clients using namecoinj.
 
 Certain actions cause automatic rolling backups of your wallet to app-private storage:
 
-	Mainnet: /data/data/hashengineering.namecoin.wallet/files/key-backup-protobuf (MODE_PRIVATE)
+	Mainnet: /data/data/hashengineering.mobilecash.wallet/files/key-backup-protobuf (MODE_PRIVATE)
 
-	Testnet: /data/data/hashengineering.namecoin.wallet_test/files/key-backup-protobuf-testnet (MODE_PRIVATE)
+	Testnet: /data/data/hashengineering.mobilecash.wallet_test/files/key-backup-protobuf-testnet (MODE_PRIVATE)
 
 Your wallet can be manually backed up to and restored from external storage:
 
@@ -31,7 +31,7 @@ DEBUGGING
 
 Wallet file for Testnet can be pulled from an (even un-rooted) device using
 
-	adb pull /data/data/hashengineering.namecoin.wallet/files/wallet-protobuf-testnet
+	adb pull /data/data/hashengineering.mobilecash.wallet/files/wallet-protobuf-testnet
 
 Log messages can be viewed by
 
@@ -69,7 +69,7 @@ and switch to it. Use
 
 to download the necessary API level.
 
-Finally, you can build Namecoin Wallet and sign it with your development key. Again in your workspace,
+Finally, you can build MobileCashWallet and sign it with your development key. Again in your workspace,
 use
 
 	# first time only
@@ -112,7 +112,7 @@ Make sure you've got Eclipse Luna with ADT 23 installed.
 
 Use Git to check out the project and an Android library dependency to your workspace:
 
-	# clone Namecoin Wallet project
+	# clone MobileCashWallet project
 	git clone -b master https://github.com/HashEngineering/namecoin-wallet.git namecoin-wallet
 
 Use the maven-eclipse-plugin to create Eclipse project files:
@@ -160,7 +160,7 @@ corrected manually.
 
 NFC (Near field communication)
 
-Namecoin Wallet supports reading Namecoin requests via NFC, either from a passive NFC tag or from
+MobileCashWallet supports reading MobileCashrequests via NFC, either from a passive NFC tag or from
 another NFC capable Android device that is requesting coins.
 
 For this to work, just enable NFC in your phone and hold your phone to the tag or device (with
@@ -174,7 +174,7 @@ Instructions for preparing an NFC tag with your address:
 
 - Some tags have less than 50 bytes capacity, those won't work. 1 KB tags recommended.
 
-- The tag needs to contain a Namecoin URI. You can construct one with the "Request coins" dialog,
+- The tag needs to contain a MobileCashURI. You can construct one with the "Request coins" dialog,
   then share with messaging or email. You can also construct the URI manually. Example for Mainnet:
   namecoin:1G2Y2jP5YFZ5RGk2PXaeWwbeA5y1ZtFhoL
 
@@ -184,16 +184,16 @@ Instructions for preparing an NFC tag with your address:
   could overwrite the tag with his own namecoin address.
 
 
-NamecoinJ
+MobileCashJ
 
-Namecoin Wallet uses namecoinj for namecoin specific logic:
+MobileCashWallet uses namecoinj for namecoin specific logic:
 
 	https://github.com/HashEngineering/namecoinj
 
 
 EXCHANGE RATES
 
-Namecoin Wallet reads this feed from "BitcoinAverage" for getting exchange rates:
+MobileCashWallet reads this feed from "BitcoinAverage" for getting exchange rates:
 
 	https://api.bitcoinaverage.com/custom/abw
 
@@ -208,7 +208,7 @@ If the above feed is not available, the feed from "Blockchain.info" is fetched i
 
 SWEEPING WALLETS
 
-For sweeping wallets, Namecoin Wallet uses an API by biteasy to query for unspent transaction
+For sweeping wallets, MobileCashWallet uses an API by biteasy to query for unspent transaction
 outputs:
 
 	https://api.biteasy.com/blockchain/v1/unspent-outputs

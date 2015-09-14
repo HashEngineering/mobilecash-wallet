@@ -15,7 +15,7 @@
 http://namecoin.org
 
 Ако сакаш да придонесеш за Биткоин Паричник, проектот е лоциран на
-https://github.com/schildbach/Namecoin-wallet
+https://github.com/schildbach/MobileCash-wallet
 
 License: GPLv3
 Користи на сопствен ризик!

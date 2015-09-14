@@ -1,20 +1,20 @@
-<b>Draag je Namecoins altijd bij je, in je broekzak!</b> Je kunt vlot betalen door een QR-code te scannen. Als handelaar ontvang je je betalingen betrouwbaar en onmiddelijk. Namecoin Wallet is de eerste mobiele Namecoin-app, en misschien wel de veiligste!
+<b>Draag je MobileCashs altijd bij je, in je broekzak!</b> Je kunt vlot betalen door een QR-code te scannen. Als handelaar ontvang je je betalingen betrouwbaar en onmiddelijk. MobileCash Wallet is de eerste mobiele MobileCash-app, en misschien wel de veiligste!
 
 <b>FEATURES</b>
 
 • Geen registratie, webservice of cloud vereist! De portemonnee is decentraal en peer-to-peer.
-• Geef het Namecoin-bedrag weer in NMC, mNMC en µNMC.
+• Geef het MobileCash-bedrag weer in NMC, mNMC en µNMC.
 • Conversie van en naar nationale valuta.
-* Verzend en ontvang Namecoin via NFC, QR-codes of Namecoin-URL's
-• Adresboek voor regelmatig gebruikte Namecoin-adressen.
+* Verzend en ontvang MobileCash via NFC, QR-codes of MobileCash-URL's
+• Adresboek voor regelmatig gebruikte MobileCash-adressen.
 • Ook offline toch betalen via Bluetooth
-• Systeemmelding wanneer je Namecoins ontvangt
-• App widget voor Namecoin saldo.
+• Systeemmelding wanneer je MobileCashs ontvangt
+• App widget voor MobileCash saldo.
 
 
 <b>HELP MEE</b>
 
-Namecoin Wallet is <b>open source</b> en <b>free software</b>. Licentie: GPLv3
+MobileCash Wallet is <b>open source</b> en <b>free software</b>. Licentie: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Onze broncode is beschikbaar op GitHub:
