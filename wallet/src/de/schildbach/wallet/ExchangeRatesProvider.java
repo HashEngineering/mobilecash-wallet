@@ -508,7 +508,7 @@ public class ExchangeRatesProvider extends ContentProvider
 
             Double btcRate = 0.0;
             boolean cryptsyValue = true;
-            Object result = getCoinValueBTC();
+            Object result = null; //getCoinValueBTC();  //this currency is not on Cryptsy
 
             if(result == null)
             {
