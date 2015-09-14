@@ -4,7 +4,7 @@
 <b>FUNKTIONER</b>
 
 • Ingen registrering, webservice eller sky behøves! Tegnebogen er decentraliseret og peer-to-peer.
-• Visning af MobileCash-beløb i NMC, mNMC og µNMC.
+• Visning af MobileCash-beløb i MBL, mMBL og µMBL.
 • Konvertering til og fra lokale valutaer.
 • Afsendelse og modtagelse af MobileCash via NFC, QR-koder eller MobileCash-URLer.
 • Adressebog til ofte brugte MobileCash-adresser.

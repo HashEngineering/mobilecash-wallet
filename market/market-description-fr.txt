@@ -4,7 +4,7 @@
 <b>CARACTÉRISTIQUES</b>
 
 • Pas d'inscription, de service Web ou de nuage de nécessaire ! Ce portefeuille est décentralisé et de pair-à-pair.
-• Affichage du montant de bitcoins en NMC, mNMC et µNMC.
+• Affichage du montant de bitcoins en MBL, mMBL et µMBL.
 • Conversion vers et depuis des devises nationales.
 • Envoi et réception de bitcoins par NFC, codes QR ou URL MobileCash
 • Carnet d'adresses pour les adresses MobileCash utilisées régulièrement.

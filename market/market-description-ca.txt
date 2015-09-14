@@ -4,7 +4,7 @@
 <b>CARACTERÍSTIQUES</b>
 
 • Sense enregistrar-se, ni necessitat de servici web o nuvol!. Aquesta cartera és descentralitzada i de parell a parell.
-• Mostra l'import de MobileCash en NMC, mNMC i µNMC.
+• Mostra l'import de MobileCash en MBL, mMBL i µMBL.
 • Conversió cap a i des de divises nacionals.
 • Enviar i rebre MobileCashs a través d'NFC, codis QR i adreces MobileCash.
 • Llibreta d'adreces per a les adreces utilitzades regularment.

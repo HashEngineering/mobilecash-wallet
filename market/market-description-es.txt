@@ -4,7 +4,7 @@
 <b>CARACTERÍSTICAS</b>
 
 • ¡No requiere registro, servidor en la nube o servicio web! Este monedero es auténticamente descentralizado y entre pares (peer-to-peer).
-• Muestra la cantidad de bitcoins en NMC, mNMC, y µNMC.
+• Muestra la cantidad de bitcoins en MBL, mMBL, y µMBL.
 • Conversión hacia y desde divisas nacionales.
 • Envío y recepción de bitcoins mediante NFC, códigos QR o identificadores URL MobileCash.
 • Libreta de direcciones para guardar las direcciones MobileCash más utilizadas.

@@ -16,11 +16,11 @@
 		<item>0/6</item>
 	</string-array>
 	<string-array name="preferences_precision_labels">
-		<item>NMC, 8 digits</item>
-		<item>NMC, 6 digits</item>
-		<item>NMC, 4 digits</item>
-		<item>mNMC, 2 digits</item>
-		<item>µNMC, no digits</item>
+		<item>MBL, 8 digits</item>
+		<item>MBL, 6 digits</item>
+		<item>MBL, 4 digits</item>
+		<item>mMBL, 2 digits</item>
+		<item>µMBL, no digits</item>
 	</string-array>
 
 </resources>

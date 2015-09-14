@@ -4,7 +4,7 @@
 <b>FUNKTIONER</b>
 
 • Ingen registrering, web- eller molntjänst behövs! MobileCash Wallet är decentraliserad och peer-to-peer.
-• Visa summa bitcoin i NMC, mNMC eller µNMC.
+• Visa summa bitcoin i MBL, mMBL eller µMBL.
 • Konventering till och från nationell valuta.
 • Skicka och ta emot bitcoin via NFC, QR-koder eller en MobileCash-URL.
 • Adressbok för de MobileCashadresser man använder ofta.

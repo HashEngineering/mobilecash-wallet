@@ -3,7 +3,7 @@
 <b>FUNKCE</b>
 
 • Žádná registrace, žádná webová služba ani cloud není potřeba! Tato peněženka je de-centralizovaná a peer to peer.
-• Zobrazení MobileCash částek v NMC, mNMC a µNMC.
+• Zobrazení MobileCash částek v MBL, mMBL a µMBL.
 • Přepočet z a do národních měn.
 • Odesílání a přijímání plateb přes NFC, QR kódy nebo MobileCash URL.
 • Adresář pro často používané MobileCash adresy.

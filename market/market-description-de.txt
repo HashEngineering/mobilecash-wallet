@@ -3,7 +3,7 @@
 <b>FEATURES</b>
 
 • Keine Registrierung, Web-Dienst oder Cloud nötig! Diese Wallet ist dezentral und Peer to Peer.
-• Anzeige von MobileCash-Werten in NMC, mNMC und µNMC.
+• Anzeige von MobileCash-Werten in MBL, mMBL und µMBL.
 • Umrechnung von und zu den nationalen Währungen.
 • Senden und Empfangen von MobileCash via NFC, QR-Codes oder MobileCash URLs.
 • Adressbuch für regelmäßig genutzte Empfänger.

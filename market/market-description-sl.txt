@@ -3,7 +3,7 @@ Nosite svoje novce vedno s seboj v žepu. Plačila so hitra, le prečitate QR-ko
 LASTNOSTI:
 
 • Potrebna ni nobena registracija, spletna storitev ali oblak! Ta denarnica deluje povsem decentralizirano in vrstniško.
-• Prikaz zneskov v NMC, mNMC ali µNMC.
+• Prikaz zneskov v MBL, mMBL ali µMBL.
 • Samodejna pretvorba v evre in druge lokalne valute.
 • Pošiljanje in prejemanje MobileCashov prek NFC, QR-kod ali MobileCash URL-jev.
 • Zasebni imenik MobileCash naslovov.

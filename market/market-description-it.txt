@@ -4,7 +4,7 @@
 <b>CARATTERISTICHE</b>
 
 • Non è necessaria alcuna registrazione, servizio web o cloud! Questo portafoglio è de-centralizzato e peer to peer.
-• Mostra l'ammontare di MobileCash in NMC, mNMC e µNMC.
+• Mostra l'ammontare di MobileCash in MBL, mMBL e µMBL.
 • Conversione verso e dalle monete nazionali.
 • Invio e ricevimento di MobileCash tramite NFC, codici QR o URL MobileCash.
 • Rubrica degli indirizzi per usare indirizzi MobileCash regolarmente.

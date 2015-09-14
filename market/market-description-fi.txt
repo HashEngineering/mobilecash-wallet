@@ -3,7 +3,7 @@
 <b>OMINAISUUDET</b>
 
 • Ei vaadi rekisteröintiä, verkkopalveluja tai pilvitallennusta! Tämä lompakko on hajautettu ja suorayhteyksinen.
-• Mahdollisuus näyttää MobileCash-varat määrissä NMC, mNMC ja µNMC.
+• Mahdollisuus näyttää MobileCash-varat määrissä MBL, mMBL ja µMBL.
 • Yksikkömuunnos valtioiden valuuttojen välillä.
 • MobileCashien lähettäminen ja vastaanottaminen NFC, QR-koodien tai MobileCash-URL-osotteiden avulla.
 • Osoitekirja säännöllisesti käytettyjä MobileCash-osoitteita varten.

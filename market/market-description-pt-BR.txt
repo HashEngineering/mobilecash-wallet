@@ -3,7 +3,7 @@ Tenha os seus MobileCashs sempre com você, no seu bolso! Efetue pagamentos rapi
 CARACTERÍSTICAS:
 
 • Sem necessidade de cadastro, serviço web ou hospedagem! Esta carteira é descentralizada e "peer to peer".
-• Exibe a quantidade de MobileCashs em NMC e mNMC.
+• Exibe a quantidade de MobileCashs em MBL e mMBL.
 • Conversão para moedas nacionais.
 • Envio e recebimento de MobileCashs via NFC, códigos QR ou endereços MobileCash.
 • Catálogo para guardar os endereços mais utilizados.

@@ -4,7 +4,7 @@
 <b>ÖZELLİKLER</b>
 
 • Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• MobileCash meblağlarını NMC, mNMC ve µNMC olarak göster.
+• MobileCash meblağlarını MBL, mMBL ve µMBL olarak göster.
 • Ulusal para birimlerine ve bu para birimlerinden dönüştürme.
 • QR kodları, MobileCash bağlantıları ve yakın alan iletişimi ile MobileCash alımı ve gönderilmesi.
 • Sık kullanılan MobileCash adresleri için adres defteri içerir.

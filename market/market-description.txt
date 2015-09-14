@@ -3,7 +3,7 @@ Have your MobileCashs always with you, in your pocket! You pay by quickly scanni
 <b>FEATURES</b>
 
 • No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.
-• Display of MobileCash amount in NMC, mNMC and µNMC.
+• Display of MobileCash amount in MBL, mMBL and µMBL.
 • Conversion to and from national currencies.
 • Sending and receiving of MobileCash via NFC, QR-codes or MobileCash URLs.
 • Address book for regularly used MobileCash addresses.

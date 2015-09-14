@@ -3,7 +3,7 @@ MobileCashy vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomoco
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku MobileCashov v NMC alebo mNMC.
+• Zobrazenie zostatku MobileCashov v MBL alebo mMBL.
 • Prepočet hodnoty MobileCashov do viacerých cudzích mien.
 • Posielanie a prijímanie MobileCashov pomocou NFC, QR kódov alebo MobileCash adries.
 • Adresár pre často používané MobileCash adresy.
