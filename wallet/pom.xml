@@ -252,7 +252,7 @@
 				<groupId>com.simpligility.maven.plugins</groupId>
 				<artifactId>android-maven-plugin</artifactId>
 				<configuration>
-					<nativeLibrariesDirectory>${project.basedir}/src/main/libs</nativeLibrariesDirectory>
+					<!--nativeLibrariesDirectory>${project.basedir}/src/main/libs</nativeLibrariesDirectory-->
 					<androidManifestFile>AndroidManifest.xml</androidManifestFile>
 					<resourceDirectory>res</resourceDirectory>
 					<assetsDirectory>assets</assetsDirectory>

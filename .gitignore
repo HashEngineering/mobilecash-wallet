@@ -13,3 +13,4 @@ out/
 *.iml
 *.bak
 gen-external-apklibs
+*.apk
