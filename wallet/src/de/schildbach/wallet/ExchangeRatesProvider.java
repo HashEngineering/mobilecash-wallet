@@ -361,7 +361,7 @@ public class ExchangeRatesProvider extends ContentProvider
         // Keep the LTC rate around for a bit
         Double btcRate = 0.0;
         String currencyCryptsy = CoinDefinition.cryptsyMarketCurrency;
-        String urlCryptsy = "http://pubapi.cryptsy.com/api.php?method=singlemarketdata&marketid="+ CoinDefinition.cryptsyMarketId;
+        String urlCryptsy = "https://c-cex.com/t/mbl-btc.json";
 
 
 
@@ -382,27 +382,16 @@ public class ExchangeRatesProvider extends ContentProvider
                 reader = new InputStreamReader(new BufferedInputStream(connectionCryptsy.getInputStream(), 1024));
                 Io.copy(reader, contentCryptsy);
                 final JSONObject head = new JSONObject(contentCryptsy.toString());
-                JSONObject returnObject = head.getJSONObject("return");
-                JSONObject markets = returnObject.getJSONObject("markets");
-                JSONObject coinInfo = markets.getJSONObject(CoinDefinition.coinTicker);
+                JSONObject returnObject = head.getJSONObject("ticker");
+                //JSONObject markets = returnObject.getJSONObject("markets");
+                //JSONObject coinInfo = markets.getJSONObject(CoinDefinition.coinTicker);
 
 
 
-                JSONArray recenttrades = coinInfo.getJSONArray("recenttrades");
+                double recenttrades = returnObject.getDouble("lastbuy");
 
-                double btcTraded = 0.0;
-                double coinTraded = 0.0;
 
-                for(int i = 0; i < recenttrades.length(); ++i)
-                {
-                    JSONObject trade = (JSONObject)recenttrades.get(i);
-
-                    btcTraded += trade.getDouble("total");
-                    coinTraded += trade.getDouble("quantity");
-
-                }
-
-                Double averageTrade = btcTraded / coinTraded;
+                Double averageTrade = recenttrades;
 
 
 
@@ -508,7 +497,7 @@ public class ExchangeRatesProvider extends ContentProvider
 
             Double btcRate = 0.0;
             boolean cryptsyValue = true;
-            Object result = null; //getCoinValueBTC();  //this currency is not on Cryptsy
+            Object result = getCoinValueBTC();  //this currency is not on Cryptsy
 
             if(result == null)
             {
