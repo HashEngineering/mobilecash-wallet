@@ -3,8 +3,8 @@
           xmlns:tools="http://schemas.android.com/tools"
 	package="hashengineering.mobilecash.wallet"
 	android:installLocation="internalOnly"
-	android:versionCode="10015"
-	android:versionName="0.15-beta" >
+	android:versionCode="10016"
+	android:versionName="0.16-beta" >
 
 	<uses-sdk
 		android:minSdkVersion="15"
