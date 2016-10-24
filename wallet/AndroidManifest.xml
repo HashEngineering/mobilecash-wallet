@@ -75,7 +75,7 @@
 			<intent-filter>
 				<action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-				<data android:mimeType="application/x-nmctx" />
+				<data android:mimeType="application/x-mbltx" />
 
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
@@ -98,7 +98,7 @@
 			<intent-filter android:label="@string/send_coins_activity_title" >
 				<action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-				<data android:scheme="namecoin" />
+				<data android:scheme="mobilecash" />
 
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
